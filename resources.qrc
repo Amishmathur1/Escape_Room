@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/_cf3871d8-7726-453d-8922-92d55e4fcfeb.jpeg</file>
+        <file>images/WhatsApp Image 2024-03-23 at 00.31.53_b41b426b.jpg</file>
+        <file>images/blur.jpg</file>
+        <file>images/room (1).jpg</file>
+        <file>images/door.jpg</file>
+        <file>images/table.jpg</file>
+        <file>images/painting.jpg</file>
+        <file>images/wall.png</file>
+        <file>images/wallxd.png</file>
+        <file>images/allay.jpg</file>
+        <file>images/creepy.png</file>
+        <file>images/ghost.jpg</file>
+        <file>images/wallxxd.png</file>
+        <file>images/chess.jpg</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>audio/song1.mp3</file>
+    </qresource>
+</RCC>

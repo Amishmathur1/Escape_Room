@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>table</class>
+ <widget class="QDialog" name="table">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>546</width>
+    <height>488</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-20</x>
+     <y>-70</y>
+     <width>571</width>
+     <height>611</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/img/images/table.jpg);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>581</width>
+     <height>461</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 9pt &quot;Lucida Handwriting&quot;;</string>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;&amp;quot;Dear Diary,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;The shadows danced on the walls as I sat down to play a solitary gameof chess.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;The pieces moved as if guided by an unseen hand, the board a battlefield &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;under the flickering candlelight. A peculiar pattern emerged, a dance of knights&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;and rooks, bishops and pawns, a ballet that ended in exactly two dozen moves.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;A chill ran down my spine. The room seemed to darken, the shadows deepening,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;the silence growing louder. The number of moves, two dozen, echoed in&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;the silence, a whisper in the dark, a secret waiting to be uncovered.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;The game ended, but the echo remained. Two dozen. A key, a clue, a path to&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;be followed. It felt as if the very fabric of reality was woven with this number&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt; at its core.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;I must remember - two dozen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;Yours,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;The Ghost Writer&amp;quot;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:8pt; color:#ffffff;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>511</width>
+     <height>431</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+  background-color: rgba(0, 0, 0, 0.3);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>400</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(47, 47, 48);
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Back</string>
+   </property>
+  </widget>
+  <zorder>label</zorder>
+  <zorder>label_3</zorder>
+  <zorder>label_2</zorder>
+  <zorder>pushButton</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

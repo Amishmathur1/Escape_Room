@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>puzzle2</class>
+ <widget class="QDialog" name="puzzle2">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>761</width>
+    <height>605</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-20</x>
+     <y>-40</y>
+     <width>801</width>
+     <height>651</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/img/images/creepy.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>20</y>
+     <width>361</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;&amp;quot;𝕯𝖆𝖗𝖐𝖓𝖊𝖘𝖘 𝖉𝖊𝖘𝖈𝖊𝖓𝖉𝖘 𝖆𝖘 𝖚𝖓𝖊𝖝𝖕𝖊𝖈𝖙𝖊𝖉 𝖛𝖎𝖘𝖎𝖙𝖔𝖗𝖘 𝖆𝖗𝖗𝖎𝖛𝖊.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;𝕭𝖊𝖜𝖆𝖗𝖊, 𝖋𝖔𝖗 𝖙𝖍𝖊 𝖓𝖎𝖌𝖍𝖙𝖒𝖆𝖗𝖊 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖇𝖊𝖌𝖚𝖓.&amp;quot;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>20</y>
+     <width>431</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+  background-color: rgba(0, 0, 0, 0.5);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="back">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>560</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(34, 34, 34);</string>
+   </property>
+   <property name="text">
+    <string>Back</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>150</y>
+     <width>321</width>
+     <height>321</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/img/images/chess.jpg);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_Text1">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>180</y>
+     <width>301</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+  background-color: rgba(0, 0, 0, 0.5);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_Text2">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>320</y>
+     <width>301</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+  background-color: rgba(0, 0, 0, 0.5);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="submit">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>520</y>
+     <width>71</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(34, 34, 34);
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Submit</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>490</y>
+     <width>321</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QLabel" name="label_5">
+      <property name="styleSheet">
+       <string notr="true">font: 15pt &quot;Chiller&quot;;
+color: rgb(0, 0, 0);</string>
+      </property>
+      <property name="text">
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:700; color:#ffff7f;&quot;&gt;Enter Your Move :-&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lineEdit_2"/>
+    </item>
+   </layout>
+  </widget>
+  <zorder>label</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>label_4</zorder>
+  <zorder>label_2</zorder>
+  <zorder>back</zorder>
+  <zorder>label_3</zorder>
+  <zorder>label_Text1</zorder>
+  <zorder>label_Text2</zorder>
+  <zorder>submit</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
