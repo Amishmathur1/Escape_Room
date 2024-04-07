@@ -20,8 +20,9 @@ void painting::on_pushButton_clicked()
 {
     ui->label_4->setStyleSheet("font-family:'Courier New'; font-size:9pt; font-weight:700; color:#ffffff");
     ui->label_4->setText("Results dosent matter if you die at the end..\n"
-                         "Trt  loa lp h  dtelos n  cmn aec sscathtrwtfr  emcgs\n"
-                         "hhtiesattpi tl encnor c iladwie5t e s aodapeaio:");
+                         "Of zit hkodqkn ofztkyqet, yoct eigoetl qvqoz\n
+                         rolegctkn, gft gy vioei sxkal egfetqstr voziof\n
+                         zit xhhtk styz jxqrkqfz");
 
 }
 
