@@ -20,10 +20,6 @@ https://www.qt.io/download#eval-form-modal
 Now after the setup of QTCreator download this Repo and save it on your device.<br>
 Open all the files with qt creator which are included in the repo exluding the <br>README.md file.
 
-## Demo
-
-*Grab a simple block of code that makes use of your project/tool and paste it here.*
-
 ## Team
 
 * Amish Mathur (1st Year Student)
